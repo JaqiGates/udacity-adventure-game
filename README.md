@@ -1,5 +1,5 @@
 # Udacity Adventure Game
-This project was submitted to Udacity during the Intro to Programming Nanodegree course. It is a simple Python adventure game created from scratch. In this game, a dog lover goes through a simple morning routine before work. Their decisions add to their `minutes` which will eventually dictate whether the player gets:
+This project was submitted to Udacity during the Intro to Programming Nanodegree course. It is a text-based Python adventure game created from scratch. In this game, a dog lover goes through a simple morning routine before work. Their decisions add to their `minutes` which will eventually dictate whether the player gets:
 1. 🔥 Fired. 
 2. 💰 A raise. 
 3. 🏆 A promotion and new office! 🥳
